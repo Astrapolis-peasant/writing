@@ -1,8 +1,16 @@
 ---
 type: synthesis
+title: "Vilar contra Second-Wave Feminism"
+description: "Her charge that the movement accepted men's account of women."
 created: 2026-08-12
-updated: 2026-08-12
-sources: 1
+generated: { by: claude-code/claude-opus-5, at: 2026-08-12 }
+status: stable
+sources:
+  - id: vilar-manipulated-man
+    resource: "raw/Esther-Vilar-The-Manipulated-Man.pdf"
+    title: "The Manipulated Man"
+    author: human:esther-vilar
+    published: 1971
 tags: [gender, feminism, argumentation]
 ---
 
@@ -17,8 +25,9 @@ of the authors below are hers, not summaries drawn from their own work.
 
 ## The charge against the theorists
 
-Her central accusation is one of derivative thinking ([[The Manipulated Man
-(Vilar)]]). Of Simone de Beauvoir's *The Second Sex* (1949) she writes that it
+Her central accusation is one of derivative thinking
+([[The Manipulated Man (Vilar)]]). Of Simone de Beauvoir's *The Second Sex* (1949)
+she writes that it
 "could have been the first book on the subject of women" but instead became "a
 handbook of Freud's, Marx's, Kant's, etc., ideas about women" — de Beauvoir
 researched what men had written about women, found evidence of disadvantage

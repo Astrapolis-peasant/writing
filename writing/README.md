@@ -1,3 +1,13 @@
+---
+type: readme
+title: "Writing"
+description: "How the human-owned half of the vault works — the line, the status ladder, and what to ask the agent for."
+created: 2026-08-11
+generated: { by: claude-code/claude-opus-5, at: 2026-08-17 }
+status: stable
+tags: [meta, writing]
+---
+
 # Writing
 
 Essays and posts headed for an audience. One file per piece, flat — the title is
@@ -14,9 +24,11 @@ is the workbench.
 ```markdown
 ---
 type: essay
+title: "The title, again"
+description: "One sentence — what the piece argues."
 status: draft
 created: 2026-08-11
-updated: 2026-08-11
+generated: { by: human:bonan, at: 2026-08-11 }
 venue:
 url:
 tags: []

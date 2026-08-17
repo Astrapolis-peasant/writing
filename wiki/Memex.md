@@ -1,8 +1,16 @@
 ---
 type: concept
+title: "Memex"
+description: "Bush's 1945 associative knowledge store, the pattern's ancestor."
 created: 2026-08-11
-updated: 2026-08-11
-sources: 1
+generated: { by: claude-code/claude-opus-5, at: 2026-08-11 }
+status: stable
+sources:
+  - id: karpathy-llm-wiki
+    resource: "raw/llm-wiki-karpathy.md"
+    title: "LLM Wiki"
+    author: human:andrej-karpathy
+    published: 2026
 tags: [history, knowledge-management]
 ---
 

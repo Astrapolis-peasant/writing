@@ -1,11 +1,17 @@
 ---
 type: source
+title: "LLM Wiki (Karpathy)"
+description: "The idea file defining this vault's pattern: three layers, three operations."
+resource: "raw/llm-wiki-karpathy.md"
 created: 2026-08-11
-updated: 2026-08-11
-sources: 1
-source: "[[raw/llm-wiki-karpathy.md]]"
-author: Andrej Karpathy
-source_date: 2026
+generated: { by: claude-code/claude-opus-5, at: 2026-08-11 }
+status: stable
+sources:
+  - id: karpathy-llm-wiki
+    resource: "raw/llm-wiki-karpathy.md"
+    title: "LLM Wiki"
+    author: human:andrej-karpathy
+    published: 2026
 url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 tags: [knowledge-management, llm, wiki]
 ---
@@ -58,6 +64,10 @@ codebase."*
 makes the log greppable with plain unix tools. He claims the index approach works
 without embedding-based retrieval up to roughly 100 sources / hundreds of pages —
 beyond that, a real search tool like [qmd](https://github.com/tobi/qmd) earns its keep.
+
+Convergent evidence that these two files are the right primitives:
+[[Open Knowledge Format]], written independently at Google, reserves the same two
+filenames with the same meanings across a whole bundle hierarchy.
 
 ## Why it works
 

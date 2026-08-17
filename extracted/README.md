@@ -1,3 +1,13 @@
+---
+type: readme
+title: "Extracted text"
+description: "Plain-text renderings of every non-text source in raw/, so binaries are searchable."
+created: 2026-08-12
+generated: { by: claude-code/claude-opus-5, at: 2026-08-12 }
+status: stable
+tags: [meta, tooling]
+---
+
 # Extracted text
 
 Plain-text renderings of every non-text source in `raw/`, so they can be searched.

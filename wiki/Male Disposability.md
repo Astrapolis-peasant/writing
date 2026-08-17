@@ -1,8 +1,16 @@
 ---
 type: concept
+title: "Male Disposability"
+description: "The checkable layer of Vilar's argument - risk and expendability allocated to men."
 created: 2026-08-12
-updated: 2026-08-12
-sources: 1
+generated: { by: claude-code/claude-opus-5, at: 2026-08-12 }
+status: stable
+sources:
+  - id: vilar-manipulated-man
+    resource: "raw/Esther-Vilar-The-Manipulated-Man.pdf"
+    title: "The Manipulated Man"
+    author: human:esther-vilar
+    published: 1971
 tags: [gender, empirical-claims]
 ---
 

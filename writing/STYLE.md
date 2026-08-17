@@ -1,3 +1,13 @@
+---
+type: config
+title: "Style"
+description: "The human's voice guide — what the agent reads before touching a word in writing/."
+created: 2026-08-11
+generated: { by: human:bonan, at: 2026-08-11 }
+status: draft
+tags: [meta, writing]
+---
+
 # Style
 
 The agent reads this before any edit to a piece in `writing/`. It is config, not

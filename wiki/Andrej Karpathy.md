@@ -1,8 +1,16 @@
 ---
 type: entity
+title: "Andrej Karpathy"
+description: "Author of the LLM wiki pattern, and his positions on agent-maintained knowledge."
 created: 2026-08-11
-updated: 2026-08-11
-sources: 1
+generated: { by: claude-code/claude-opus-5, at: 2026-08-11 }
+status: draft
+sources:
+  - id: karpathy-llm-wiki
+    resource: "raw/llm-wiki-karpathy.md"
+    title: "LLM Wiki"
+    author: human:andrej-karpathy
+    published: 2026
 tags: [person, llm]
 ---
 

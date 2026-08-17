@@ -1,8 +1,16 @@
 ---
 type: concept
+title: "Compounding Knowledge"
+description: "Why a maintained wiki gets cheaper to query as it grows, unlike retrieval."
 created: 2026-08-11
-updated: 2026-08-11
-sources: 1
+generated: { by: claude-code/claude-opus-5, at: 2026-08-11 }
+status: stable
+sources:
+  - id: karpathy-llm-wiki
+    resource: "raw/llm-wiki-karpathy.md"
+    title: "LLM Wiki"
+    author: human:andrej-karpathy
+    published: 2026
 tags: [knowledge-management, rag, llm]
 ---
 

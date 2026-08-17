@@ -1,11 +1,17 @@
 ---
 type: source
+title: "The Manipulated Man (Vilar)"
+description: "1971 polemic inverting the feminist thesis; a pamphlet with near-zero provenance."
+resource: "raw/Esther-Vilar-The-Manipulated-Man.pdf"
 created: 2026-08-12
-updated: 2026-08-12
-sources: 1
-source: "[[raw/Esther-Vilar-The-Manipulated-Man.pdf]]"
-author: Esther Vilar
-source_date: 1971
+generated: { by: claude-code/claude-opus-5, at: 2026-08-12 }
+status: stable
+sources:
+  - id: vilar-manipulated-man
+    resource: "raw/Esther-Vilar-The-Manipulated-Man.pdf"
+    title: "The Manipulated Man"
+    author: human:esther-vilar
+    published: 1971
 tags: [gender, polemic, feminism, argumentation]
 ---
 
